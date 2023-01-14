@@ -1,0 +1,19 @@
+{
+  "name": "relevel-hiring",
+  "version": "1.0.0",
+  "description": "This is backend design for the relevel's hiring employees app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maleena",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.3"
+  }
+}
